@@ -1,0 +1,32 @@
+P15:13:30.670 [Test worker] ERROR NoteParser - There is no translation for glob
+_15:13:30.676 [Test worker] ERROR NoteParser - The resource Silver has not been registered yet
+J15:13:30.679 [Test worker] INFO NoteParser - glob Silver is 10.0 Credits
+J15:13:30.679 [Test worker] INFO NoteParser - glob Gold is 1000.0 Credits
+G15:13:30.679 [Test worker] INFO NoteParser - glob Iron is 2.0 Credits
+I15:13:30.679 [Test worker] INFO NoteParser - glob Sulfer is 4.6 Credits
+L15:13:30.680 [Test worker] INFO NoteParser - glob Aluminum is 0.46 Credits
+Y15:13:30.680 [Test worker] ERROR NoteParser - I have no Idea what you are talking about
+Y15:13:30.681 [Test worker] ERROR NoteParser - I have no Idea what you are talking about
+Y15:13:30.681 [Test worker] ERROR NoteParser - I have no Idea what you are talking about
+Y15:13:30.681 [Test worker] ERROR NoteParser - I have no Idea what you are talking about
+Y15:13:30.681 [Test worker] ERROR NoteParser - I have no Idea what you are talking about
+Y15:13:30.681 [Test worker] ERROR NoteParser - I have no Idea what you are talking about
+P15:13:30.687 [Test worker] ERROR NoteParser - There is no translation for pish
+H15:13:30.687 [Test worker] INFO NoteParser - pish tegj glob glob is 42
+Y15:13:30.687 [Test worker] ERROR NoteParser - I have no Idea what you are talking about
+Y15:13:30.687 [Test worker] ERROR NoteParser - I have no Idea what you are talking about
+Y15:13:30.688 [Test worker] ERROR NoteParser - I have no Idea what you are talking about
+P15:13:30.689 [Test worker] ERROR NoteParser - There is no translation for glob
+Y15:13:30.689 [Test worker] ERROR NoteParser - I have no Idea what you are talking about
+Y15:13:30.689 [Test worker] ERROR NoteParser - I have no Idea what you are talking about
+Y15:13:30.689 [Test worker] ERROR NoteParser - I have no Idea what you are talking about
+Y15:13:30.689 [Test worker] ERROR NoteParser - I have no Idea what you are talking about
+Y15:13:30.689 [Test worker] ERROR NoteParser - I have no Idea what you are talking about
+R15:13:30.690 [Test worker] WARN NoteParser - There is already a price for Silver
+U15:13:30.690 [Test worker] WARN NoteParser - There is already a translation of glob
+R15:13:30.690 [Test worker] WARN NoteParser - There is already a translation of I
+Y15:13:30.691 [Test worker] ERROR NoteParser - I have no Idea what you are talking about
+Y15:13:30.691 [Test worker] ERROR NoteParser - I have no Idea what you are talking about
+Y15:13:30.691 [Test worker] ERROR NoteParser - I have no Idea what you are talking about
+Y15:13:30.691 [Test worker] ERROR NoteParser - I have no Idea what you are talking about
+Y15:13:30.691 [Test worker] ERROR NoteParser - I have no Idea what you are talking about

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="TranslatorTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2022-04-28T13:13:30" hostname="DESKTOP-8J3EL76" time="0.093">
+  <properties/>
+  <testcase name="howManyCreditsTest()" classname="TranslatorTest" time="0.088"/>
+  <testcase name="howMuchInIntergalactic()" classname="TranslatorTest" time="0.002"/>
+  <testcase name="putResourcePriceTest()" classname="TranslatorTest" time="0.001"/>
+  <testcase name="putInterToRomanTranslationTest()" classname="TranslatorTest" time="0.001"/>
+  <system-out><![CDATA[15:13:30.670 [Test worker] ERROR NoteParser - There is no translation for glob
+15:13:30.676 [Test worker] ERROR NoteParser - The resource Silver has not been registered yet
+15:13:30.679 [Test worker] INFO NoteParser - glob Silver is 10.0 Credits
+15:13:30.679 [Test worker] INFO NoteParser - glob Gold is 1000.0 Credits
+15:13:30.679 [Test worker] INFO NoteParser - glob Iron is 2.0 Credits
+15:13:30.679 [Test worker] INFO NoteParser - glob Sulfer is 4.6 Credits
+15:13:30.680 [Test worker] INFO NoteParser - glob Aluminum is 0.46 Credits
+15:13:30.680 [Test worker] ERROR NoteParser - I have no Idea what you are talking about
+15:13:30.681 [Test worker] ERROR NoteParser - I have no Idea what you are talking about
+15:13:30.681 [Test worker] ERROR NoteParser - I have no Idea what you are talking about
+15:13:30.681 [Test worker] ERROR NoteParser - I have no Idea what you are talking about
+15:13:30.681 [Test worker] ERROR NoteParser - I have no Idea what you are talking about
+15:13:30.681 [Test worker] ERROR NoteParser - I have no Idea what you are talking about
+15:13:30.687 [Test worker] ERROR NoteParser - There is no translation for pish
+15:13:30.687 [Test worker] INFO NoteParser - pish tegj glob glob is 42
+15:13:30.687 [Test worker] ERROR NoteParser - I have no Idea what you are talking about
+15:13:30.687 [Test worker] ERROR NoteParser - I have no Idea what you are talking about
+15:13:30.688 [Test worker] ERROR NoteParser - I have no Idea what you are talking about
+15:13:30.689 [Test worker] ERROR NoteParser - There is no translation for glob
+15:13:30.689 [Test worker] ERROR NoteParser - I have no Idea what you are talking about
+15:13:30.689 [Test worker] ERROR NoteParser - I have no Idea what you are talking about
+15:13:30.689 [Test worker] ERROR NoteParser - I have no Idea what you are talking about
+15:13:30.689 [Test worker] ERROR NoteParser - I have no Idea what you are talking about
+15:13:30.689 [Test worker] ERROR NoteParser - I have no Idea what you are talking about
+15:13:30.690 [Test worker] WARN NoteParser - There is already a price for Silver
+15:13:30.690 [Test worker] WARN NoteParser - There is already a translation of glob
+15:13:30.690 [Test worker] WARN NoteParser - There is already a translation of I
+15:13:30.691 [Test worker] ERROR NoteParser - I have no Idea what you are talking about
+15:13:30.691 [Test worker] ERROR NoteParser - I have no Idea what you are talking about
+15:13:30.691 [Test worker] ERROR NoteParser - I have no Idea what you are talking about
+15:13:30.691 [Test worker] ERROR NoteParser - I have no Idea what you are talking about
+15:13:30.691 [Test worker] ERROR NoteParser - I have no Idea what you are talking about
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

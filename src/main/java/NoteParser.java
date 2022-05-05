@@ -56,14 +56,14 @@ public class NoteParser {
         if (interToRoman.containsKey(intergalactic)){
             LOG.warn("There is already a translation of " + intergalactic);
         }
-        else {
-            this.interToRoman.put(intergalactic, roman);
-        }
 
         if (this.romanToInter.containsKey(roman)){
             LOG.warn("There is already a translation of " + roman);
         }
-        else {
+
+        if (!this.interToRoman.containsKey(intergalactic)
+                && !this.romanToInter.containsKey(roman)){
+            this.interToRoman.put(intergalactic, roman);
             this.romanToInter.put(roman,intergalactic);
         }
     }
